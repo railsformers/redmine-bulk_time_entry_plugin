@@ -1,5 +1,6 @@
-bulk_time_entry_title: Hromadné časové záznamy
-label_bulk_time_entries: Hromadné časové záznamy
-label_bulk_time_add_another: Přidat další
-text_bulk_time_entry_permission: Nemáte oprávnění přidávat časy k některým projektům
-text_time_added_to_project: %s hodin přidáno k projektu
+cs:
+  bulk_time_entry_title: Hromadné záznamy času
+  label_bulk_time_entries: Hromadné záznamy času
+  label_bulk_time_add_another: Přidat další
+  text_bulk_time_entry_permission: Nemáte oprávnění přidávat časy k některým projektům
+  text_time_added_to_project: "%{count} hodin přidáno k %{target}"
